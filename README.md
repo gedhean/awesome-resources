@@ -4,9 +4,15 @@
 
 Table of Contents:
 - [Awesome Resources](#awesome-resources)
+  - [Programming](#programming)
   - [Frontend](#frontend)
   - [DevOps](#devops)
   - [License](#license)
+
+## Programming
+
+- [Project Euler](https://projecteuler.net/archives)
+- [CSES Problem Set](https://cses.fi/problemset/)
 
 ## Frontend
 
